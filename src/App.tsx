@@ -39,7 +39,7 @@ const handleNotify = async () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-indigo-500 to-purple-600 text-white px-4">
       <div className="text-center max-w-xl w-full">
-        <h1 className="text-5xl font-bold mb-4">Stacktech</h1>
+        <h1 className="text-5xl font-bold mb-4">Stacktech Consulting</h1>
         <h2 className="text-2xl mb-3 opacity-90">Coming Soon</h2>
 
         <p className="mb-8 opacity-80">
