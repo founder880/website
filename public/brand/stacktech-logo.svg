@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" role="img" aria-label="Stacktech Consulting logo">
+  <rect width="96" height="96" rx="18" fill="#0F172A"/>
+  <path d="M24 31L48 17L72 31L48 45L24 31Z" fill="#CCFBF1"/>
+  <path d="M24 47L48 33L72 47L48 61L24 47Z" fill="#14B8A6"/>
+  <path d="M24 63L48 49L72 63L48 77L24 63Z" fill="#0F766E"/>
+  <text x="120" y="44" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="0">Stacktech</text>
+  <text x="120" y="70" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="3">CONSULTING LLP</text>
+</svg>

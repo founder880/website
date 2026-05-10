@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Stacktech Consulting color palette">
+  <rect width="960" height="540" fill="#FFFFFF"/>
+  <text x="56" y="72" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Stacktech Color Palette</text>
+  <text x="58" y="110" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="17">Clean, structured, and calm with a teal accent for momentum.</text>
+  <g transform="translate(56 160)">
+    <rect width="130" height="170" rx="12" fill="#0F172A"/>
+    <text x="0" y="205" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Deep Slate</text>
+    <text x="0" y="230" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">#0F172A</text>
+  </g>
+  <g transform="translate(212 160)">
+    <rect width="130" height="170" rx="12" fill="#0F766E"/>
+    <text x="0" y="205" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Teal</text>
+    <text x="0" y="230" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">#0F766E</text>
+  </g>
+  <g transform="translate(368 160)">
+    <rect width="130" height="170" rx="12" fill="#14B8A6"/>
+    <text x="0" y="205" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Bright Teal</text>
+    <text x="0" y="230" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">#14B8A6</text>
+  </g>
+  <g transform="translate(524 160)">
+    <rect width="130" height="170" rx="12" fill="#CCFBF1" stroke="#E2E8F0"/>
+    <text x="0" y="205" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Soft Teal</text>
+    <text x="0" y="230" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">#CCFBF1</text>
+  </g>
+  <g transform="translate(680 160)">
+    <rect width="130" height="170" rx="12" fill="#F8FAFC" stroke="#E2E8F0"/>
+    <text x="0" y="205" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Slate 50</text>
+    <text x="0" y="230" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">#F8FAFC</text>
+  </g>
+</svg>

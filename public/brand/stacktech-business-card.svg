@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 600" role="img" aria-label="Stacktech Consulting business card">
+  <rect width="1050" height="600" rx="28" fill="#0F172A"/>
+  <rect x="56" y="56" width="938" height="488" rx="18" fill="#FFFFFF"/>
+  <rect x="96" y="96" width="88" height="88" rx="18" fill="#0F172A"/>
+  <path d="M118 125L140 112L162 125L140 138L118 125Z" fill="#CCFBF1"/>
+  <path d="M118 141L140 128L162 141L140 154L118 141Z" fill="#14B8A6"/>
+  <path d="M118 157L140 144L162 157L140 170L118 157Z" fill="#0F766E"/>
+  <text x="212" y="134" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Stacktech</text>
+  <text x="214" y="169" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">CONSULTING LLP</text>
+  <text x="96" y="310" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="700">Founder Name</text>
+  <text x="98" y="350" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Founder</text>
+  <text x="98" y="430" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="22">founder@stacktechconsulting.com</text>
+  <text x="98" y="466" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="22">www.stacktechconsulting.com</text>
+  <rect x="784" y="96" width="170" height="408" rx="18" fill="#F8FAFC"/>
+  <path d="M824 220L869 194L914 220L869 246L824 220Z" fill="#0F172A"/>
+  <path d="M824 270L869 244L914 270L869 296L824 270Z" fill="#0F766E"/>
+  <path d="M824 320L869 294L914 320L869 346L824 320Z" fill="#14B8A6"/>
+</svg>

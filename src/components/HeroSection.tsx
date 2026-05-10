@@ -32,14 +32,22 @@ export function HeroSection() {
         </div>
 
         <div className="rounded border border-slate-200 bg-white p-6 shadow-sm">
-          <div className="border-b border-slate-200 pb-5">
-            <p className="text-sm font-semibold text-slate-950">
-              How we help
-            </p>
+          <div className="flex items-start gap-4 border-b border-slate-200 pb-5">
+            <img
+              src="/brand/stacktech-mark-light.svg"
+              alt=""
+              className="h-14 w-14 shrink-0"
+              aria-hidden="true"
+            />
+            <div>
+              <p className="text-sm font-semibold text-slate-950">
+                How we help
+              </p>
             <p className="mt-2 text-sm leading-6 text-slate-600">
               Technology decisions become easier when strategy, delivery, and
               operations are designed together.
             </p>
+            </div>
           </div>
           <div className="grid gap-4 py-6">
             {[

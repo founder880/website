@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 1100" role="img" aria-label="Stacktech Consulting letterhead">
+  <rect width="850" height="1100" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="850" height="12" fill="#0F172A"/>
+  <rect x="0" y="12" width="850" height="4" fill="#0F766E"/>
+  <rect x="64" y="64" width="72" height="72" rx="14" fill="#0F172A"/>
+  <path d="M82 88L100 78L118 88L100 98L82 88Z" fill="#CCFBF1"/>
+  <path d="M82 102L100 92L118 102L100 112L82 102Z" fill="#14B8A6"/>
+  <path d="M82 116L100 106L118 116L100 126L82 116Z" fill="#0F766E"/>
+  <text x="158" y="98" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Stacktech</text>
+  <text x="160" y="126" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">CONSULTING LLP</text>
+  <text x="610" y="92" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">founder@stacktechconsulting.com</text>
+  <text x="610" y="118" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">www.stacktechconsulting.com</text>
+  <line x1="64" y1="176" x2="786" y2="176" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="64" y="260" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Document Title</text>
+  <text x="64" y="318" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="18">Use this layout for proposals, statements of work, and formal communication.</text>
+  <line x1="64" y1="1000" x2="786" y2="1000" stroke="#E2E8F0" stroke-width="2"/>
+  <text x="64" y="1038" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">Stacktech Consulting LLP</text>
+  <text x="560" y="1038" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="14">Practical technology for growing businesses.</text>
+</svg>

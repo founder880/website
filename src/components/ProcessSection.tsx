@@ -13,10 +13,16 @@ export function ProcessSection() {
 
         <div className="mt-12 grid gap-5 md:grid-cols-4">
           {processSteps.map((step, index) => (
-            <article key={step.title} className="rounded border border-slate-200 bg-white p-6">
-              <p className="text-sm font-semibold text-teal-700">
-                0{index + 1}
-              </p>
+            <article
+              key={step.title}
+              className="rounded border border-slate-200 bg-white p-6"
+            >
+              <div className="flex items-center justify-between">
+                <p className="text-sm font-semibold text-teal-700">
+                  0{index + 1}
+                </p>
+                <span className="h-2 w-8 rounded-full bg-teal-600" />
+              </div>
               <h3 className="mt-4 text-lg font-semibold text-slate-950">
                 {step.title}
               </h3>

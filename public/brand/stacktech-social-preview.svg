@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Stacktech Consulting social preview">
+  <rect width="1200" height="630" fill="#F8FAFC"/>
+  <rect x="72" y="72" width="1056" height="486" rx="24" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="118" y="118" width="112" height="112" rx="22" fill="#0F172A"/>
+  <path d="M146 154L174 138L202 154L174 170L146 154Z" fill="#CCFBF1"/>
+  <path d="M146 174L174 158L202 174L174 190L146 174Z" fill="#14B8A6"/>
+  <path d="M146 194L174 178L202 194L174 210L146 194Z" fill="#0F766E"/>
+  <text x="262" y="165" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700">Stacktech Consulting</text>
+  <text x="264" y="210" fill="#0F766E" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4">IT SERVICES AND CONSULTING</text>
+  <text x="118" y="342" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="700">Practical technology for growing businesses.</text>
+  <text x="120" y="416" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="400">Strategy, software, cloud, data, security, and managed IT support.</text>
+  <rect x="120" y="474" width="208" height="52" rx="8" fill="#0F172A"/>
+  <text x="151" y="508" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">stacktechconsulting.com</text>
+  <circle cx="1028" cy="492" r="42" fill="#CCFBF1"/>
+  <circle cx="974" cy="492" r="28" fill="#14B8A6"/>
+  <circle cx="1074" cy="492" r="18" fill="#0F766E"/>
+</svg>

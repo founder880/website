@@ -3,6 +3,11 @@ export function ContactSection() {
     <section id="contact" className="bg-slate-950 py-20 text-white">
       <div className="mx-auto grid max-w-7xl gap-10 px-5 md:grid-cols-[1fr_0.85fr] md:px-8">
         <div>
+          <img
+            src="/brand/stacktech-logo-inverse.svg"
+            alt="Stacktech Consulting"
+            className="mb-10 h-14 w-auto"
+          />
           <p className="text-sm font-semibold uppercase tracking-[0.18em] text-teal-300">
             Contact
           </p>
@@ -16,6 +21,12 @@ export function ContactSection() {
         </div>
 
         <div className="rounded border border-white/10 bg-white/5 p-6">
+          <img
+            src="/brand/stacktech-mark.svg"
+            alt=""
+            className="mb-6 h-12 w-12"
+            aria-hidden="true"
+          />
           <div className="space-y-4 text-sm">
             <div>
               <p className="font-semibold text-white">Email</p>
