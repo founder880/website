@@ -11,7 +11,11 @@ export function SiteFooter() {
           <p className="mt-3">Practical technology for growing businesses.</p>
         </div>
         <div className="flex flex-wrap gap-4">
-          <a href="/brand/stacktech-logo.svg" className="hover:text-slate-950">
+           <a
+            href="/brand/stacktech-logo.svg"
+            download
+            className="hover:text-slate-950"
+          >
             Logo
           </a>
           <a
